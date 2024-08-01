@@ -1,0 +1,14 @@
+{
+    "cSpell.words": [
+        "autoflush",
+        "conint",
+        "fastapi",
+        "isouter",
+        "ondelete",
+        "passlib",
+        "psycopg",
+        "pydantic",
+        "sessionmaker",
+        "sqlalchemy"
+    ]
+}
